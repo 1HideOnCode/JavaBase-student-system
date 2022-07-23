@@ -1,0 +1,3 @@
+还有些许bug，但不影响
+把数据库文件导进navicate就好了
+然后在mysql.properties里把数据库的名称和密码改成自己的就可以了
